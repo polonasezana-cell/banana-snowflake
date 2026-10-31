@@ -1,0 +1,7 @@
+BANANA SNOWFLAKE 4.0
+
+Na Netlify v obstojecem projektu odpri Deploys in nalozi CELOTNO RAZSIRJENO MAPO BANANA_SNOWFLAKE_4_NETLIFY, ne samo index.html.
+
+POMEMBNO: Netlify Drop pri rocnem nalaganju mape lahko ne zgradi funkcij. Za delovanje netlify/functions je obicajno potreben Git-based deploy ali Netlify CLI. Ce nalozis samo mapo prek Drop, bo stran vidna, iskanje pa ne bo delovalo.
+
+Funkcija isce naslove prek Google News RSS, ne preverja celotne vsebine. Uredniska odobritev je obvezna.
